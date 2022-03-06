@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaKill3r and I can speak french
+- 👋 Hi, I’m @JTF2 and I can speak french
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python
 - 💞️ I’m looking to collaborate on ...
