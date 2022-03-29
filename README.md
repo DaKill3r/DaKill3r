@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @I-JTF2-I and I can speak french
+- 👋 Hi, I’m @I-JTF2-I and I'm a Canadian developer
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
